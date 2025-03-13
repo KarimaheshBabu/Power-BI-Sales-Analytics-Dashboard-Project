@@ -116,6 +116,6 @@ DAX (Data Analysis Expressions) for calculations
 ● Publish & Share: Upload the report to Power BI Service for accessibility.
 
 
-[see the full Dashboard Here (https://app.powerbi.com/groups/me/reports/f92989cb-9623-4473-bb35-cf4148018276/6581544ea007a99415c3?experience=power-bi)]
+[See the full Dashboard Here (https://app.powerbi.com/groups/me/reports/f92989cb-9623-4473-bb35-cf4148018276/6581544ea007a99415c3?experience=power-bi)]
 
 
