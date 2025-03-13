@@ -81,15 +81,10 @@ Calendar Table: Provides a structured timeline for sales trend analysis, contain
 
 # Key Features
 
-# ● Sales Performance Analysis: 
-Track revenue trends across different time periods.
-
+● Sales Performance Analysis: Track revenue trends across different time periods.
 ● Product-wise Sales Insights: Identify top-performing products and categories.
-
 ● Regional Analysis: Compare sales performance by geography.
-
 ● Salesperson Contribution: Evaluate individual sales performance.
-
 ● Dynamic Filtering: Apply slicers to drill down into specific insights.
 
 Interactive Visualizations: Use bar charts, line graphs, and tables for data exploration.
