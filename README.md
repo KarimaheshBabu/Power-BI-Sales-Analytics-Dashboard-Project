@@ -5,6 +5,9 @@ Project Description:
 The Power BI Sales Analytics Dashboard provides a comprehensive view of sales performance by analyzing key metrics such as revenue, product sales, and regional trends. It enables data-driven decision-making through interactive visualizations and dynamic filters.
 Data Analytics Workflow
 
+ See the full dashboard here - [App Power BI link](https://app.powerbi.com/groups/me/reports/f92989cb-9623-4473-bb35-cf4148018276/6581544ea007a99415c3?experience=power-bi)
+
+
 # This project follows the Data Analytics Workflow, for Efficient data processing:
 
 # 1. Data Collection:
@@ -116,6 +119,5 @@ DAX (Data Analysis Expressions) for calculations
 ● Publish & Share: Upload the report to Power BI Service for accessibility.
 
 
-See the full dashboard here - [App Power BI link](https://app.powerbi.com/groups/me/reports/f92989cb-9623-4473-bb35-cf4148018276/6581544ea007a99415c3?experience=power-bi)
 
 
