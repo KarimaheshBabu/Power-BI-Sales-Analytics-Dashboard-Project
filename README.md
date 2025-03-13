@@ -9,9 +9,9 @@ Data Analytics Workflow
 
 # 1. Data Collection
 
-Sales and shipment data extracted from internal databases and Excel files.
+1 Sales and shipment data extracted from internal databases and Excel files.
 
-Includes order details, product categories, sales representatives, and regional performance metrics.
+2 Includes order details, product categories, sales representatives, and regional performance metrics.
 
 # 2. Data Cleaning & Preparation
 
