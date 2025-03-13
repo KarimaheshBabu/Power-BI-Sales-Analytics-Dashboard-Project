@@ -7,13 +7,13 @@ Data Analytics Workflow
 
 # This project follows the Data Analytics Workflow, for efficient data processing:
 
-# 1. Data Collection
+# 1. Data Collection:
 
 1) Sales and shipment data extracted from internal databases and Excel files.
 
 2) Includes order details, product categories, sales representatives, and regional performance metrics.
 
-# 2. Data Cleaning & Preparation
+# 2. Data Cleaning & Preparation:
 
 1) Removed duplicates and null values from the dataset.
  
@@ -23,7 +23,7 @@ Data Analytics Workflow
 
 4) Merged different tables (Shipment Data, Dimension Data, and Calendar Table) for seamless integration.
 
-# 3. Data Modeling
+# 3. Data Modeling:
 
 1) Established relationships between tables based on Primary Keys.
 
@@ -31,7 +31,7 @@ Data Analytics Workflow
 
 3) Created calculated columns and measures using DAX (Data Analysis Expressions) for key metrics.
 
-# 4. Data Analysis
+# 4. Data Analysis:
 
 1) Identified sales trends over different time periods.
 
@@ -41,7 +41,7 @@ Data Analytics Workflow
 
 4) Analyzed customer buying patterns and seasonal trends.
 
-# 5. Data Visualization & Reporting
+# 5. Data Visualization & Reporting:
 
 1) Designed an interactive Power BI dashboard with:
 
@@ -55,7 +55,7 @@ Data Analytics Workflow
 
 6) Dynamic Filters & Slicers for user-driven insights
 
-# 6. Deployment & Sharing
+# 6. Deployment & Sharing:
 
 1) Published the report on Power BI Service.
 
@@ -63,7 +63,7 @@ Data Analytics Workflow
 
 3) Configured security settings for controlled access.
 
-# 7. Continuous Monitoring & Optimization
+# 7. Continuous Monitoring & Optimization:
 
 1) Planned periodic updates for real-time data integration.
 
@@ -71,7 +71,7 @@ Data Analytics Workflow
 
 3) Gathering user feedback for dashboard improvements.
 
-# Data Sources
+# Data Sources:
 
 1) This dashboard is built using sales data extracted from multiple sources. The dataset includes:
 
@@ -81,7 +81,7 @@ Data Analytics Workflow
 
 4) Calendar Table: Provides a structured timeline for sales trend analysis, containing date records.
 
-# Key Features
+# Key Features:
 
 ● Sales Performance Analysis: Track revenue trends across different time periods.
 
@@ -95,7 +95,7 @@ Data Analytics Workflow
 
 ● Interactive Visualizations: Use bar charts, line graphs, and tables for data exploration.
 
-# Technologies Used
+# Technologies Used:
 
 Power BI for data visualization
 
@@ -103,16 +103,16 @@ Excel for dataset preparation
 
 DAX (Data Analysis Expressions) for calculations
 
-# Setup Instructions
+# Setup Instructions:
 
-Import Data: Load the dataset into Power BI.
+● Import Data: Load the dataset into Power BI.
 
-Data Cleaning: Fix formatting issues in the Shipment Data sheet and remove null values.
+● Data Cleaning: Fix formatting issues in the Shipment Data sheet and remove null values.
 
-Create Relationships: Link tables appropriately for seamless data analysis.
+● Create Relationships: Link tables appropriately for seamless data analysis.
 
-Design Visualizations: Build charts, graphs, and KPIs.
+● Design Visualizations: Build charts, graphs, and KPIs.
 
-Publish & Share: Upload the report to Power BI Service for accessibility.
+● Publish & Share: Upload the report to Power BI Service for accessibility.
 
 
