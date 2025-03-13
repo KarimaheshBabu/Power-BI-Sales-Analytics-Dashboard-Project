@@ -9,77 +9,77 @@ Data Analytics Workflow
 
 # 1. Data Collection
 
-1 Sales and shipment data extracted from internal databases and Excel files.
+1) Sales and shipment data extracted from internal databases and Excel files.
 
-2 Includes order details, product categories, sales representatives, and regional performance metrics.
+2) Includes order details, product categories, sales representatives, and regional performance metrics.
 
 # 2. Data Cleaning & Preparation
 
-Removed duplicates and null values from the dataset.
+1) Removed duplicates and null values from the dataset.
+ 
+2) Standardized column names and formatted date fields.
 
-Standardized column names and formatted date fields.
+3) Addressed data inconsistencies in shipment records.
 
-Addressed data inconsistencies in shipment records.
-
-Merged different tables (Shipment Data, Dimension Data, and Calendar Table) for seamless integration.
+4) Merged different tables (Shipment Data, Dimension Data, and Calendar Table) for seamless integration.
 
 # 3. Data Modeling
 
-Established relationships between tables based on Primary Keys.
+1) Established relationships between tables based on Primary Keys.
 
-Applied Star Schema for efficient querying and performance optimization.
+2) Applied Star Schema for efficient querying and performance optimization.
 
-Created calculated columns and measures using DAX (Data Analysis Expressions) for key metrics.
+3) Created calculated columns and measures using DAX (Data Analysis Expressions) for key metrics.
 
 # 4. Data Analysis
 
-Identified sales trends over different time periods.
+1) Identified sales trends over different time periods.
 
-Performed product and category-level sales analysis.
+2) Performed product and category-level sales analysis.
 
-Conducted regional and salesperson performance evaluations.
+3) Conducted regional and salesperson performance evaluations.
 
-Analyzed customer buying patterns and seasonal trends.
+4) Analyzed customer buying patterns and seasonal trends.
 
 # 5. Data Visualization & Reporting
 
-Designed an interactive Power BI dashboard with:
+1) Designed an interactive Power BI dashboard with:
 
-Revenue Trends (Line Charts, KPIs)
+2) Revenue Trends (Line Charts, KPIs)
 
-Sales Performance by Product (Bar & Pie Charts)
+3) Sales Performance by Product (Bar & Pie Charts)
 
-Geographical Sales Distribution (Maps)
+4) Geographical Sales Distribution (Maps)
 
-Salesperson Performance Comparison (Tables & Charts)
+5) Salesperson Performance Comparison (Tables & Charts)
 
-Dynamic Filters & Slicers for user-driven insights
+6) Dynamic Filters & Slicers for user-driven insights
 
 # 6. Deployment & Sharing
 
-Published the report on Power BI Service.
+1) Published the report on Power BI Service.
 
-Enabled sharing via Power BI embed link.
+2) Enabled sharing via Power BI embed link.
 
-Configured security settings for controlled access.
+3) Configured security settings for controlled access.
 
 # 7. Continuous Monitoring & Optimization
 
-Planned periodic updates for real-time data integration.
+1) Planned periodic updates for real-time data integration.
 
-Optimized DAX queries for better report performance.
+2) Optimized DAX queries for better report performance.
 
-Gathering user feedback for dashboard improvements.
+3) Gathering user feedback for dashboard improvements.
 
 # Data Sources
 
-This dashboard is built using sales data extracted from multiple sources. The dataset includes:
+1) This dashboard is built using sales data extracted from multiple sources. The dataset includes:
 
-Shipment Data: Contains shipment-related records including delivery dates and locations.
+2) Shipment Data: Contains shipment-related records including delivery dates and locations.
 
-Dimension Data: Includes product details, categories, cost per box, sales representatives, region, team, and image links.
+3) Dimension Data: Includes product details, categories, cost per box, sales representatives, region, team, and image links.
 
-Calendar Table: Provides a structured timeline for sales trend analysis, containing date records.
+4) Calendar Table: Provides a structured timeline for sales trend analysis, containing date records.
 
 # Key Features
 
@@ -93,7 +93,7 @@ Calendar Table: Provides a structured timeline for sales trend analysis, contain
 
 ● Dynamic Filtering: Apply slicers to drill down into specific insights.
 
-Interactive Visualizations: Use bar charts, line graphs, and tables for data exploration.
+● Interactive Visualizations: Use bar charts, line graphs, and tables for data exploration.
 
 # Technologies Used
 
